@@ -9,10 +9,7 @@ Di dalam repository ini, terdapat tiga buah Jupyter Notebook utama:
 1. **`Modul_11_KMeans_GoTrack.ipynb`**
    Merupakan implementasi K-Means clustering sesuai dengan panduan Modul 11. Notebook ini menggunakan dataset **GPS Trajectories** (`go_track_tracks.csv`) yang berasal dari aplikasi Android Go!Track. Tujuannya adalah mengelompokkan data berdasarkan jarak (*distance*) dan kecepatan (*speed*).
 
-2. **`Latihan_KMeans_MallCustomers.ipynb`**
-   Merupakan latihan mandiri yang menerapkan konsep segmentasi pelanggan (Customer Segmentation). Menggunakan dataset dari Kaggle, yaitu **Mall Customer Segmentation Data**. Pada notebook ini, pelanggan dikelompokkan menjadi 5 cluster natural berdasarkan pendapatan (*Annual Income*) dan skor pengeluaran (*Spending Score*).
-
-3. **`Modul_KMeans_MallCustomers.ipynb`**
+2. **`Modul_KMeans_MallCustomers.ipynb`**
    Merupakan adaptasi langsung dari format langkah demi langkah yang ada di `Modul_11_KMeans_GoTrack.ipynb`, namun diterapkan pada dataset `Mall_Customers.csv`. Notebook ini dibuat untuk menunjukkan bagaimana format kode dari modul dapat langsung diimplementasikan pada dataset baru dengan sangat sedikit modifikasi.
 
 ## Prasyarat (Requirements)
